@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2898
+
+Circos http://mkweb.bcgsc.ca/circos is a visualization program for genes, but can also be used for anything you would like to visualize as a circle with relationships.
+
+This syntax file helps edit circos.conf, ideogram.conf and ticks.conf.
